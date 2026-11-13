@@ -48,7 +48,7 @@ After unlocking a hitbox, a player can strike it to earn money per hit. A hitbox
 ![Unlocked hitbox](../assets/Gameplay4.PNG)
 *The first hitbox becomes available as a source of active earnings.*
 
-Each hitbox has **10 upgrade levels**. Higher levels increase the currency earned per hit. Players access these upgrades using a nearby upgrade stand and its interaction interface.
+Each hitbox has **3 upgrade levels**. Higher levels increase the currency earned per hit. Players access these upgrades using a nearby upgrade stand and its interaction interface.
 
 ![Hitbox upgrade stand](../assets/Gameplay5.PNG)
 *The upgrade stand sits near the hitbox.*
