@@ -1,4 +1,3 @@
-[01-Game-Overview.md](https://github.com/user-attachments/files/34828620/01-Game-Overview.md)
 # KINGDOM VILLAGE TYCOON — Game Overview
 
 This document explains how **Kingdom Village Tycoon** works from the player's perspective. It focuses on gameplay and progression; the Verse code, UEFN devices, and technical architecture are documented separately.
