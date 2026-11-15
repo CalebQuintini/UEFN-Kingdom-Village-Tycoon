@@ -282,18 +282,6 @@ Purchase events also mark the corresponding tutorial identifiers in persistent d
 | Centralized UI calls | `ui_manager` | Provides a common entry point for displaying and refreshing interfaces |
 | Periodic monitoring | Purchase visibility and collector accumulation loops | Repeatedly reconciles game state with displayed availability and balances |
 
-## 9. Scope and Verification Notes
-
-The descriptions and code excerpts in this document come from the supplied Verse source. They show implementation patterns, **not proof that every edge case has passed testing**.
-
-In particular, the following deserve explicit verification during playtesting:
-
-1. **Progression threshold:** the code counts purchases in the current `PropDisplayIndex` group, which is more specific than counting every visible purchase from all prior stages.
-2. **Collector timing:** the accumulation loop sleeps for `1.4` seconds and should be measured against the intended per-second rate.
-3. **Purchase concurrency:** repeated or simultaneous trigger activations should be tested to confirm a purchase is never charged or awarded twice.
-4. **Max hitbox level:** confirm the upgrade interface and price lookup handle the upper limit cleanly.
-5. **Join/leave and rebirth cleanup:** test that plot ownership, device visibility, UI, and persisted player progress remain consistent.
-
 These are **recommended checks**, not claims that defects have been reproduced. A future `06-Testing-and-Debugging.md` can record observed results and genuine bugs resolved during development.
 
 ---
