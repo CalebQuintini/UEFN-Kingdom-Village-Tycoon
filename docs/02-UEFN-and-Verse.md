@@ -1,3 +1,4 @@
+[Uploading 02-UEFN-and-Verse.md…]()
 # UEFN and Verse — Kingdom Village Tycoon
 
 This document introduces the development tools behind **Kingdom Village Tycoon**. It is intended for software developers who may be familiar with programming but have never used Unreal Editor for Fortnite (UEFN) or Verse.
@@ -72,6 +73,9 @@ In Kingdom Village Tycoon, a Button Device is positioned at the hitbox upgrade s
 A **Beacon Device** displays a visible marker that helps players locate points of interest. The game's beacons display a **green hammer icon** over building purchase locations.
 
 The marker is removed after the corresponding building has been purchased.
+
+![Beacon Device in the UEFN editor](../assets/BeaconDevice.PNG)
+*The Beacon Device as it appears while configuring the map in UEFN.*
 
 ![Beacon icon above a purchase](../assets/BeaconDeviceShowcase.PNG)
 *A purchase location marked by the green hammer icon during gameplay.*
