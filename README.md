@@ -15,7 +15,7 @@ Players begin by claiming one of four plots. Each player develops their own king
 The game combines UEFN's built-in gameplay devices with custom Verse code to implement its interactions and progression systems.
 
 ## Gameplay Preview
-
+Watch a gameplay demonstration of Kingdom Village Tycoon, showcasing plot claiming, currency generation, building purchases, and kingdom progression.
 https://youtu.be/F-wlVsVt94k
 
 <!-- After uploading a short preview GIF to assets/gameplay-preview.gif, replace the sentence above with:
