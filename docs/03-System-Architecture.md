@@ -227,9 +227,6 @@ The following are interpretations of the code's design rather than claims about 
 | Periodic monitor for purchase availability | Simple mechanism for checking staged progression | Visibility updates are polling-based and depend on the current group's data |
 | Rebuilding persistable state through constructors | Preserves unchanged fields while updating selected values | New saved fields must be included in copy/reset logic where appropriate |
 
-### Boundaries of This Documentation
-
-The code and its editor-assigned device configuration jointly determine gameplay behavior. This document describes observed relationships but **does not establish automated test coverage, production load characteristics, concurrency guarantees, or a formal reliability level**. Those would require separate verification.
 
 ## 10. Reading the Source
 
