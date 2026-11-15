@@ -282,8 +282,6 @@ Purchase events also mark the corresponding tutorial identifiers in persistent d
 | Centralized UI calls | `ui_manager` | Provides a common entry point for displaying and refreshing interfaces |
 | Periodic monitoring | Purchase visibility and collector accumulation loops | Repeatedly reconciles game state with displayed availability and balances |
 
-These are **recommended checks**, not claims that defects have been reproduced. A future `06-Testing-and-Debugging.md` can record observed results and genuine bugs resolved during development.
-
 ---
 
 For the complete implementation, review the `.verse` files in `src/`. The documentation describes major paths and selected functions without replacing the source code itself.
