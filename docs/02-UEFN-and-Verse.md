@@ -55,6 +55,9 @@ A **Prop Manipulator Device** can affect properties of props within its configur
 
 Kingdom Village Tycoon positions a Prop Manipulator over a hitbox crate to detect when the crate is struck. The game uses the resulting interaction as part of its currency-earning logic.
 
+![Prop Manipulator Device in UEFN](../assets/PropManipulatorDevice.PNG)
+*The Prop Manipulator Device as it appears in the editor.*
+
 ![Prop Manipulator over a hitbox](../assets/EditorScreenshot3.PNG)
 *The Prop Manipulator positioned around the hitbox crate in the editor.*
 
@@ -63,6 +66,9 @@ Kingdom Village Tycoon positions a Prop Manipulator over a hitbox crate to detec
 A **Button Device** provides an interaction that a player actively activates, as opposed to merely stepping onto a trigger area.
 
 In Kingdom Village Tycoon, a Button Device is positioned at the hitbox upgrade stand. Players interact with it to open the interface used to upgrade their hitbox's earnings.
+
+![Button Device in UEFN](../assets/ButtonDevice.PNG)
+*The Button Device as it appears in the editor.*
 
 ![Button Device on the hitbox upgrade stand](../assets/EditorScreenshot4.PNG)
 *The upgrade stand's interaction button in the editor.*
@@ -74,7 +80,7 @@ A **Beacon Device** displays a visible marker that helps players locate points o
 The marker is removed after the corresponding building has been purchased.
 
 ![Beacon Device in the UEFN editor](../assets/BeaconDevice.PNG)
-*The Beacon Device in the editor*
+*The Beacon Device as it appears while configuring the map in UEFN.*
 
 ![Beacon icon above a purchase](../assets/BeaconDeviceShowcase.PNG)
 *A purchase location marked by the green hammer icon during gameplay.*
@@ -108,12 +114,18 @@ For example, a player who has **$50** and attempts to purchase a **$100** struct
 
 A **Billboard Device** displays text within the game world. In this project, a billboard is placed with the Money Collector to present information at the collection point.
 
+![Billboard Device in UEFN](../assets/BillboardDevice.PNG)
+*The Billboard Device as it appears in the editor.*
+
 ![Billboard and trigger at the Money Collector](../assets/EditorScreenshot2.PNG)
 *The Money Collector's Billboard and Trigger Devices as placed in UEFN.*
 
 ### 4.9 Player Reference Device — Showing Plot Ownership
 
 A **Player Reference Device** can store a reference to a player and present player-related information or visuals. In Kingdom Village Tycoon, claiming a plot causes the corresponding device to display the owner's character in front of their claimed plot.
+
+![Player Reference Device in UEFN](../assets/PlayerReferenceDevice.PNG)
+*The Player Reference Device as it appears in the editor.*
 
 ![Player Reference display](../assets/PlayerReferenceDeviceShowcase.PNG)
 *The claimed plot displays its owner's character.*
