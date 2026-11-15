@@ -16,7 +16,7 @@ The game combines UEFN's built-in gameplay devices with custom Verse code to imp
 
 ## Gameplay Preview
 
-A short gameplay demonstration will be added here, showing plot claiming, earning currency, purchasing structures, and the village's development.
+https://youtu.be/F-wlVsVt94k
 
 <!-- After uploading a short preview GIF to assets/gameplay-preview.gif, replace the sentence above with:
 ![Kingdom Village Tycoon gameplay preview](assets/gameplay-preview.gif)
