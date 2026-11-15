@@ -1,4 +1,3 @@
-[Uploading 02-UEFN-and-Verse.md…]()
 # UEFN and Verse — Kingdom Village Tycoon
 
 This document introduces the development tools behind **Kingdom Village Tycoon**. It is intended for software developers who may be familiar with programming but have never used Unreal Editor for Fortnite (UEFN) or Verse.
