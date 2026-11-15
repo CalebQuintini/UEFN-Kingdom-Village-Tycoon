@@ -41,9 +41,7 @@ Solid arrows describe direct manager relationships; dotted arrows represent call
 | [`tutorial.verse`](../src/tutorial.verse) | Guided first-time objectives and objective markers |
 | [`UserInterface/ui_manager.verse`](../src/UserInterface/ui_manager.verse) | Central access to currency, tutorial, hitbox upgrade, and weapon-shop interfaces |
 | `Persistence/` | Saved currency, purchases, tutorial progress, rebirths, and hitbox levels |
-| `Config/` | Prices and reward values used by gameplay logic |
-
-> **Repository note:** The links above assume the project preserves the original folder structure under `src/`. Adjust any link if your uploaded files use different paths or names.
+| `config/` | Prices and reward values used by gameplay logic |
 
 ## 2. Game Startup and Dependency Wiring
 
