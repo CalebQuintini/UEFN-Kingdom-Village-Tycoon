@@ -74,7 +74,7 @@ A **Beacon Device** displays a visible marker that helps players locate points o
 The marker is removed after the corresponding building has been purchased.
 
 ![Beacon Device in the UEFN editor](../assets/BeaconDevice.PNG)
-*The Beacon Device as it appears while configuring the map in UEFN.*
+*The Beacon Device in the editor*
 
 ![Beacon icon above a purchase](../assets/BeaconDeviceShowcase.PNG)
 *A purchase location marked by the green hammer icon during gameplay.*
